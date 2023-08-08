@@ -1,0 +1,10 @@
+header {
+    max-width: 100%;
+}
+
+
+header h1 {
+    text-align: center;
+    background-color: orange;
+    width: 100%;
+}
