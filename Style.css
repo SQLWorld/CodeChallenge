@@ -2,7 +2,9 @@ header {
     max-width: 100%;
 }
 
-
+section{
+    font-size: 18px;
+}
 header h1 {
     text-align: center;
     background-color: orange;
@@ -13,4 +15,54 @@ div img {
 
 max-width: 100%;
 
+}
+
+.banner{
+position: relative;
+width: 100%;
+font-size: 30px;
+}
+
+.banner .welcome{
+    position: absolute;
+    left: 0;
+    top: 10%;
+    font-size:30px;
+    background:greenyellow;
+    color: black;
+}
+
+.moreinfo{
+background-color: red;
+
+}
+
+li{
+    display: inline-block;
+    color: black;
+    width: 30%;
+    font: bold;
+    font-size: 20px;
+}
+
+h1 {
+    text-align: center;
+    font:bolder;
+    background-color:greenyellow ;
+    font-size: 40px;
+}
+
+.members{
+    text-align: center;
+    font-family: cursive;
+    font: bold;
+    font-size:45px ;
+    color: red;
+}
+.more{
+    display: inline-block;
+    color: black;
+    width: 40%;
+    font: bolder;
+    font-size: 30px;
 }
