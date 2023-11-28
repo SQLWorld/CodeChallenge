@@ -73,3 +73,9 @@ h1 {
     margin-left: auto;
     margin-right: auto;
 }
+
+#greeting
+{
+    color: blue;
+    font-size: large;
+}
