@@ -33,7 +33,7 @@ font-size: 30px;
 }
 
 .moreinfo{
-background-color: red;
+background-color: burlywood;
 
 }
 
@@ -62,7 +62,7 @@ h1 {
 .more{
     display: inline-block;
     color: black;
-    width: 40%;
+    width: 45%;
     font: bolder;
     font-size: 30px;
 }
